@@ -1,10 +1,8 @@
+..raw html
+    <a href="https://cdn.discordapp.com/icons/789892434405490718/f5c09a1bd7453dc3968944e02e585350.png?size=100" height=200></a>discord.customs
 discord.customs
 ================
 
-.. image:: https://cdn.discordapp.com/icons/789892434405490718/f5c09a1bd7453dc3968944e02e585350.png?size=100
-    :align: center
-    :height: 200
-    
 
 A new project to extend discord.py and it's features.
 
