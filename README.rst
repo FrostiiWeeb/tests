@@ -1,7 +1,7 @@
 discord.customs
 ================
 
-.. image:: https://cdn.discordapp.com/icons/789892434405490718/f5c09a1bd7453dc3968944e02e585350.png?size=250
+.. image:: https://cdn.discordapp.com/icons/789892434405490718/f5c09a1bd7453dc3968944e02e585350.png?size=300
     :align: center
 
 A new project to extend discord.py and it's features.
